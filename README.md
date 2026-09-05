@@ -68,6 +68,9 @@ LangChain-Chatbot/
 ├── requirements.txt
 └── README.md
 
-**Output**
-![LangChain Chatbot Output](LangChain_Output.png)
-![LangChain Chatbot Output](LangChain_Output1.png)
+## Output
+
+<p align="center">
+  <img src="LangChain_Output.png" width="45%">
+  <img src="LangChain_Output1.png" width="45%">
+</p>
