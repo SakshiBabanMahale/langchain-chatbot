@@ -67,3 +67,7 @@ LangChain-Chatbot/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+**Output**
+![LangChain Chatbot Output](LangChain_Output.png)
+![LangChain Chatbot Output](LangChain_Output1.png)
