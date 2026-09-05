@@ -53,7 +53,7 @@ Conversation history is added to the prompt before sending the request to the Ge
 
 
 ## Project Structure
-
+```text
 LangChain-Chatbot/
 │
 ├── src/
